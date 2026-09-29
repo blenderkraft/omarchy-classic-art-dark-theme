@@ -58,3 +58,15 @@ record are credited on each file's Commons page.
 ```bash
 omarchy theme set "Classic Art Dark"
 ```
+
+## Original Prompt
+
+This theme was generated from the following prompt:
+
+> /omarchy Create a new theme called Classic Art Dark. Use high quality
+> images with lenient licenses to create a new theme for my computer.
+> Focus on dark in color for a dark mode theme. Conver the images to wide
+> screen if necessary. Limit to 25 background images max (less is OK).
+> Only use striking or very impactful images. The more intense the
+> better. But needs to be open source. Save this theme to ~/Dev and
+> apply it.
