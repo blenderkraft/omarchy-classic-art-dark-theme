@@ -1,0 +1,34 @@
+# Classic Art Dark. Museum-wall charcoal, chiaroscuro venetian red, antique gilt gold.
+# Wallpaper bars are pure black so each painting sits centered and uncropped.
+mode = "dark"
+
+accent = "#b23a3a"
+selection = "#3a1f1f"
+selection_foreground = "#f5ead0"
+muted = "#8a7860"
+
+background = "#100d0a"
+dark_background = "#0a0806"
+darker_background = "#050403"
+lighter_background = "#1c1712"
+
+foreground = "#ece0c8"
+dark_foreground = "#a89478"
+light_foreground = "#d8c8a8"
+bright_foreground = "#f5ead0"
+
+red = "#b23a3a"
+yellow = "#c9a227"
+orange = "#b8722e"
+green = "#6b7d4f"
+cyan = "#4f8a8a"
+blue = "#4a6b8a"
+magenta = "#8a4a6b"
+brown = "#5a3a24"
+
+bright_red = "#d4574f"
+bright_yellow = "#e0be5a"
+bright_green = "#92a56c"
+bright_cyan = "#72b0b0"
+bright_blue = "#7292b8"
+bright_magenta = "#b06a8e"
