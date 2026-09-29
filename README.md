@@ -53,6 +53,20 @@ Nightmare photos carry CC BY-SA 4.0 / CC BY 2.5 photographer licenses on the
 either way. Sources are Wikimedia Commons; the photographers/uploaders of
 record are credited on each file's Commons page.
 
+## Install
+
+To install this theme on another machine, clone it straight from GitHub:
+
+```bash
+omarchy theme install https://github.com/blenderkraft/omarchy-classic-art-dark-theme.git
+```
+
+This clones the repo into `~/.config/omarchy/themes/classic-art-dark`. Omarchy
+marks a theme installed this way as a clone (it leaves the `.git` directory in
+place) and, per its own rules, would drop any `*.lua`, terminal config, or
+`vscode.json` files the theme shipped, regenerating them from `colors.toml`
+instead. This theme doesn't ship any of those, so nothing is dropped.
+
 ## Apply
 
 ```bash
